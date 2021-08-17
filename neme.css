@@ -1,0 +1,10 @@
+body {
+  background-color: salmon;
+}
+
+h1 {
+  color: aquamarine;
+  margin-left: 50px;
+  h2 {
+  				color: cyan;
+  }
